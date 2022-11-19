@@ -1,0 +1,88 @@
+baseURL: zhichi.me
+languageCode: en-us
+title: Love is everywhere
+theme: "PaperMod"
+
+googleAnalytics: UA-123-45
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+params:
+  env: production
+  defaultTheme: auto
+  description: "This is description"
+  keywords: [Blog, Program]
+  images: ["resources/_gen/assets/image.jpg"]
+  DateFormat: "January 2, 2006"
+  author: Me
+  homeInfoParams:
+    Title: Hi there wave
+    Content: Tomorrow is better!
+
+  ShowShareButtons: false
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  comments: false
+
+  assets:
+    favicon: "https://avatars.githubusercontent.com/u/43780800?v=4"
+    favicon16x16: "https://avatars.githubusercontent.com/u/43780800?v=4"
+    favicon32x32: "https://avatars.githubusercontent.com/u/43780800?v=4"
+    apple_touch_icon: "https://avatars.githubusercontent.com/u/43780800?v=4"
+    safari_pinned_tab: "https://avatars.githubusercontent.com/u/43780800?v=4"
+
+  profileMode:
+    enabled: false
+    title: zhichucode
+    #imageUrl: "resources/_gen/assets/image.jpg"
+    imageTitle: sunset
+    buttons:
+      - name: Archives
+        url: archives
+      - name: Tags
+        url: tags
+
+  editPost:
+    URL: "mailto://zhichuv@gmail.com"
+    Text: "Suggest Changes"
+    appendFilePath: true
+
+  socialIcons:
+    - name: github
+      url: https://github.com/zhichucode
+    - name: email
+      url: mailto://zhichuv@gmail.com
+    - name: rss
+      url: index.xml
+    # - name: apple music
+    #   url: https://music.apple.com/profile/hoppe8
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+menu:
+  main:
+    - identifier: Archive
+      name: Archive
+      url: /archives
+      weight: 5
+    - identifier: Search
+      name: Search
+      url: search
+      weight: 10
+    # - identifier: tags
+    #   name: tags
+    #   url: /tags/
+    # weight: 20
+    # - identifier: example
+    #   name: example.org
+    #   url: https://example.org
+    #   weight: 30
