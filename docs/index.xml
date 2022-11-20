@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Love is everywhere</title>
+    <link>https://zhichucode.github.io/paper-hugo/</link>
+    <description>Recent content on Love is everywhere</description>
+    <image>
+      <url>https://zhichucode.github.io/paper-hugo/resources/_gen/assets/image.jpg</url>
+      <link>https://zhichucode.github.io/paper-hugo/resources/_gen/assets/image.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 19 Nov 2022 21:56:51 +0800</lastBuildDate><atom:link href="https://zhichucode.github.io/paper-hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Third</title>
+      <link>https://zhichucode.github.io/paper-hugo/posts/third/</link>
+      <pubDate>Sat, 19 Nov 2022 21:56:51 +0800</pubDate>
+      
+      <guid>https://zhichucode.github.io/paper-hugo/posts/third/</guid>
+      <description>This is my third post.</description>
+    </item>
+    
+    <item>
+      <title>Second</title>
+      <link>https://zhichucode.github.io/paper-hugo/posts/second/</link>
+      <pubDate>Sat, 19 Nov 2022 21:56:17 +0800</pubDate>
+      
+      <guid>https://zhichucode.github.io/paper-hugo/posts/second/</guid>
+      <description>This is my second post.</description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>https://zhichucode.github.io/paper-hugo/posts/first/</link>
+      <pubDate>Sat, 19 Nov 2022 21:54:08 +0800</pubDate>
+      
+      <guid>https://zhichucode.github.io/paper-hugo/posts/first/</guid>
+      <description>First Second Third This is my first article. </description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>

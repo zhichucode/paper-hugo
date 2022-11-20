@@ -3,6 +3,8 @@ languageCode: en-us
 title: Love is everywhere
 theme: "PaperMod"
 
+publishDir: docs
+
 googleAnalytics: UA-123-45
 
 enableRobotsTXT: true

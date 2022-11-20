@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://zhichucode.github.io/paper-hugo/sitemap.xml
