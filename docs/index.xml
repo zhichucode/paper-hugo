@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Nov 2022 21:56:51 +0800</lastBuildDate><atom:link href="https://zhichucode.github.io/paper-hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Nov 2022 15:40:15 +0800</lastBuildDate><atom:link href="https://zhichucode.github.io/paper-hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Four</title>
+      <link>https://zhichucode.github.io/paper-hugo/posts/four/</link>
+      <pubDate>Sun, 20 Nov 2022 15:40:15 +0800</pubDate>
+      
+      <guid>https://zhichucode.github.io/paper-hugo/posts/four/</guid>
+      <description>Hello, test for new post.</description>
+    </item>
+    
     <item>
       <title>Third</title>
       <link>https://zhichucode.github.io/paper-hugo/posts/third/</link>
