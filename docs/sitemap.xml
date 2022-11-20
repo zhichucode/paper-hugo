@@ -2,33 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zhichucode.github.io/paper-hugo/posts/five/</loc>
+    <loc>zhichi.me/posts/five/</loc>
     <lastmod>2022-11-20T15:42:38+08:00</lastmod>
   </url><url>
-    <loc>https://zhichucode.github.io/paper-hugo/</loc>
+    <loc>zhichi.me/</loc>
     <lastmod>2022-11-20T15:42:38+08:00</lastmod>
   </url><url>
-    <loc>https://zhichucode.github.io/paper-hugo/posts/</loc>
+    <loc>zhichi.me/posts/</loc>
     <lastmod>2022-11-20T15:42:38+08:00</lastmod>
   </url><url>
-    <loc>https://zhichucode.github.io/paper-hugo/posts/four/</loc>
+    <loc>zhichi.me/posts/four/</loc>
     <lastmod>2022-11-20T15:40:15+08:00</lastmod>
   </url><url>
-    <loc>https://zhichucode.github.io/paper-hugo/posts/third/</loc>
+    <loc>zhichi.me/posts/third/</loc>
     <lastmod>2022-11-19T21:56:51+08:00</lastmod>
   </url><url>
-    <loc>https://zhichucode.github.io/paper-hugo/posts/second/</loc>
+    <loc>zhichi.me/posts/second/</loc>
     <lastmod>2022-11-19T21:56:17+08:00</lastmod>
   </url><url>
-    <loc>https://zhichucode.github.io/paper-hugo/posts/first/</loc>
+    <loc>zhichi.me/posts/first/</loc>
     <lastmod>2022-11-19T21:54:08+08:00</lastmod>
   </url><url>
-    <loc>https://zhichucode.github.io/paper-hugo/archives/</loc>
+    <loc>zhichi.me/archives/</loc>
   </url><url>
-    <loc>https://zhichucode.github.io/paper-hugo/categories/</loc>
+    <loc>zhichi.me/categories/</loc>
   </url><url>
-    <loc>https://zhichucode.github.io/paper-hugo/search/</loc>
+    <loc>zhichi.me/search/</loc>
   </url><url>
-    <loc>https://zhichucode.github.io/paper-hugo/tags/</loc>
+    <loc>zhichi.me/tags/</loc>
   </url>
 </urlset>

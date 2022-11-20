@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Love is everywhere</title>
-    <link>https://zhichucode.github.io/paper-hugo/posts/</link>
+    <link>zhichi.me/posts/</link>
     <description>Recent content in Posts on Love is everywhere</description>
     <image>
-      <url>https://zhichucode.github.io/paper-hugo/resources/_gen/assets/image.jpg</url>
-      <link>https://zhichucode.github.io/paper-hugo/resources/_gen/assets/image.jpg</link>
+      <url>zhichi.me/resources/_gen/assets/image.jpg</url>
+      <link>zhichi.me/resources/_gen/assets/image.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Nov 2022 15:42:38 +0800</lastBuildDate><atom:link href="https://zhichucode.github.io/paper-hugo/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Nov 2022 15:42:38 +0800</lastBuildDate><atom:link href="zhichi.me/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Five</title>
-      <link>https://zhichucode.github.io/paper-hugo/posts/five/</link>
+      <link>zhichi.me/posts/five/</link>
       <pubDate>Sun, 20 Nov 2022 15:42:38 +0800</pubDate>
       
-      <guid>https://zhichucode.github.io/paper-hugo/posts/five/</guid>
+      <guid>zhichi.me/posts/five/</guid>
       <description>Five test.</description>
     </item>
     
     <item>
       <title>Four</title>
-      <link>https://zhichucode.github.io/paper-hugo/posts/four/</link>
+      <link>zhichi.me/posts/four/</link>
       <pubDate>Sun, 20 Nov 2022 15:40:15 +0800</pubDate>
       
-      <guid>https://zhichucode.github.io/paper-hugo/posts/four/</guid>
+      <guid>zhichi.me/posts/four/</guid>
       <description>Hello, test for new post.</description>
     </item>
     
     <item>
       <title>Third</title>
-      <link>https://zhichucode.github.io/paper-hugo/posts/third/</link>
+      <link>zhichi.me/posts/third/</link>
       <pubDate>Sat, 19 Nov 2022 21:56:51 +0800</pubDate>
       
-      <guid>https://zhichucode.github.io/paper-hugo/posts/third/</guid>
+      <guid>zhichi.me/posts/third/</guid>
       <description>This is my third post.</description>
     </item>
     
     <item>
       <title>Second</title>
-      <link>https://zhichucode.github.io/paper-hugo/posts/second/</link>
+      <link>zhichi.me/posts/second/</link>
       <pubDate>Sat, 19 Nov 2022 21:56:17 +0800</pubDate>
       
-      <guid>https://zhichucode.github.io/paper-hugo/posts/second/</guid>
+      <guid>zhichi.me/posts/second/</guid>
       <description>This is my second post.</description>
     </item>
     
     <item>
       <title>First</title>
-      <link>https://zhichucode.github.io/paper-hugo/posts/first/</link>
+      <link>zhichi.me/posts/first/</link>
       <pubDate>Sat, 19 Nov 2022 21:54:08 +0800</pubDate>
       
-      <guid>https://zhichucode.github.io/paper-hugo/posts/first/</guid>
+      <guid>zhichi.me/posts/first/</guid>
       <description>First Second Third This is my first article. </description>
     </item>
     
